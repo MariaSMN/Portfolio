@@ -54,5 +54,7 @@ Czy IT jest dla mnie?
     My projects
 
 
-    REST API
+    My LinkedIn
+    
+https://www.linkedin.com/in/maria-nowicka-aa4a5627b/
 
